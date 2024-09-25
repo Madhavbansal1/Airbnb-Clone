@@ -1,0 +1,2 @@
+<!-- <% if(currUser && currUser._id.equals(ids.owner._id)) {%> -->
+ <!-- <% } %> -->
